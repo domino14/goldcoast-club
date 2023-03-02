@@ -1,0 +1,3 @@
+[submodule "odds/themes/jane"]
+	path = odds/themes/jane
+	url = https://github.com/xianmin/hugo-theme-jane.git
