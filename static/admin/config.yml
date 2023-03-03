@@ -3,6 +3,7 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
   repo: domino14/odds-site
   base_url: https://odds.xword.club
+  auth_endpoint: /api/auth
 
 # publish_mode: editorial_workflow
 media_folder: "static/images/uploads"
