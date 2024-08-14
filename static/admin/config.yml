@@ -1,8 +1,8 @@
 backend:
   name: github
   branch: main # Branch to update (optional; defaults to master)
-  repo: domino14/odds-site
-  base_url: https://odds.xword.club
+  repo: domino14/goldcoast-club
+  base_url: https://goldcoast.xword.club
   auth_endpoint: /api/auth
 
 # publish_mode: editorial_workflow

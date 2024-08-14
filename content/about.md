@@ -1,7 +1,7 @@
 ---
 title: "About"
-date: 2023-03-01
-lastmod: 2023-03-01
+date: 2024-08-14
+lastmod: 2024-08-14
 menu: "main"
 weight: 50
 
@@ -10,5 +10,9 @@ comment: false
 mathjax: false
 ---
 
-This Scrabble odds site provides kraftyscrabble's analyses for upcoming tournaments, presented in a mathematical odds format.
+Welcome to the Gold Coast Scrabble Club website!
 
+Here you can find stats, announcements, and more. We are located in North
+Stamford, CT, and meet on Friday evenings from 8 to 11 pm at a private residence.
+
+For directions to our club, please contact delsolar at gmail dot com.

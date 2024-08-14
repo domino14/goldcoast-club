@@ -2,8 +2,8 @@
 # If you want to see the full configuration, please check `full-config.toml` .
 # And see https://gohugo.io/getting-started/configuration/ .
 
-baseURL = "https://odds.xword.club"
-title = "kraftyscrabble's Odds Site"
+baseURL = "https://goldcoast.xword.club"
+title = "The Gold Coast Scrabble Club website"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
@@ -21,7 +21,7 @@ defaultContentLanguage = "en"           # Default language to use
   languageCode = "en"
 
 [author]
-  name = "kraftyscrabble"        # essential                     # 必需
+  name = "cesar"        # essential                     # 必需
   url = "/about"          # optional                      # 可选
 
 [sitemap]                 # essential                     # 必需
@@ -48,14 +48,14 @@ defaultContentLanguage = "en"           # Default language to use
 
 
 [params]
-  since = "2023"            # Site creation time          # 站点建立时间
+  since = "2024"            # Site creation time          # 站点建立时间
   homeFullContent = true   # if false, show post summaries on home page. Otherwise show full content.
   rssFullContent = true     # if false, Rss feed instead of the summary
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
   logoTitle = ""        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Hugo", "theme","jane"]
-  description = "A site with odds for upcoming Scrabble tournaments."
+  description = "The Gold Coast Scrabble club website."
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
   dateFormatToUse = "2006-01-02"
@@ -71,5 +71,5 @@ defaultContentLanguage = "en"           # Default language to use
   customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
 
   [params.social]                                         # 社交链接
-    a-email = "mailto:kraftyscrabble@yahoo.com"
+    a-email = "mailto:delsolar+goldcoast@gmail.com"
 
