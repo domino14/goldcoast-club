@@ -12,7 +12,4 @@ mathjax: false
 
 Welcome to the Gold Coast Scrabble Club website!
 
-Here you can find stats, announcements, and more. We are located in North
-Stamford, CT, and meet on Friday evenings from 8 to 11 pm at a private residence.
-
-For directions to our club, please contact delsolar at gmail dot com.
+We are an impromptu club with occasional meetings, as the directors/organizers are busy with two young kids. However, we will likely meet once or twice a year for one-day tournaments in the Stamford area. Stay tuned to this site for further details!
