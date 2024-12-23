@@ -18,7 +18,7 @@ curl -LJO https://github.com/sass/dart-sass/releases/download/${DARTSASS_VERSION
 
 tar -xvf dart-sass-${DARTSASS_VERSION}-linux-x64.tar.gz;
 
-mv dart-sass $BIN_DIR
+mv dart-sass/sass $BIN_DIR
 
 rm -rf dart-sass*;
 
