@@ -8,6 +8,8 @@ echo "Install Dart Sass Embedded..."
 # This should be in the PATH.
 BIN_DIR=/opt/buildhome/.binrc/bin
 
+echo "PATH: $PATH"
+
 DARTSASS_VERSION=1.83.0
 
 mkdir -p $BIN_DIR
