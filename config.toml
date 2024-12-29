@@ -75,3 +75,8 @@ customJS = []  # if ['custom.js'], load '/static/js/custom.js' file
 
 [params.social] # 社交链接
 a-email = "mailto:delsolar+goldcoast@gmail.com"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false
